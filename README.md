@@ -100,7 +100,7 @@ HousePriceProject
 ## Repository
 
 GitHub:
-https://github.com/username/repository-name
+https://github.com/ENRIST/house-price-prediction-and-property-segmentation.git
 
 ## Deployment
 
