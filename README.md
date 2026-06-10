@@ -104,4 +104,4 @@ https://github.com/ENRIST/house-price-prediction-and-property-segmentation.git
 ## Deployment
 
 Streamlit:
-belom
+https://house-price-prediction-and-property-segmentation.streamlit.app/
