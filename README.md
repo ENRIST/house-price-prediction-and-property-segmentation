@@ -77,7 +77,6 @@ HousePriceProject
 │   ├── rf_model.pkl
 │   ├── kmeans_model.pkl
 │   ├── scaler.pkl
-│   └── feature_columns.pkl
 │
 ├── app
 │   ├── app.py
